@@ -1,9 +1,12 @@
 ## Project 1 Documentation Expressed
 
- 	`updating in terminal with the following cmd; 
-    sudo apt update; successful`
+ 	successful updating in terminal with the following cmd; 
+`sudo apt update`
 
-    `installation of apache2 in terminal with the following cmd; sudo apt install apache2; successful`
+    successful installation of apache2 in terminal with the following cmd; 
+`sudo apt install apache2`
     
-    `installation of systemctl in terminal with the following cmd; sudo systemctl apache2; successful`
+    successful installation of systemctl in terminal with the following cmd; 
+`sudo systemctl apache2`
+
 ![apache stat](apache_stat.PNG)
