@@ -1,13 +1,13 @@
 ## Project 1 Documentation Expressed
 
- 	Project 1 is also project LAMP.
+ 	Project 1 is also project LAMP(Linux, Apache, MySql, PHP).
     successful update of list of packages in package manager in terminal with the following cmd; 
 `sudo apt update`
 
     successful installation of apache2 package in terminal with the following cmd; 
 `sudo apt install apache2`
     
-    successful confrimation that apache2 is running in terminal with the following cmd; 
+    successful confirmation that apache2 is running in terminal with the following cmd; 
 `sudo systemctl status apache2`
 
 ![apache stat](apache_stat.PNG)
